@@ -1,4 +1,3 @@
-<!--
 [Uploading Re# 💫 About Me:
 💻Em transição para a área de TI, em busca da primeira oportunidade para ganhar experiência.<br>📚Estudando na EBAC e desenvolvendo habilidades em Ciência e Análise de Dados<br>🎯Experiência em vendas e atendimento ao cliente, com foco em comunicação e resolução de problemas.<br>🚀Apaixonado por tecnologia e aprendizado contínuo.<br>📫Conecte-se comigo! LinkedIn: augustogfonte | GitHub
 
@@ -18,4 +17,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->adMe.md…]()
 
--->
+
